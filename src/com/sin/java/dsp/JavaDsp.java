@@ -6,7 +6,7 @@ package com.sin.java.dsp;
  * 
  * @author RobinTang
  * @version 1.0
- * @see https://github.com/sintrb/JavaDsp/
+ * @see https://github.com/sintrb/JavaDsp
  */
 public class JavaDsp {
 	public static final String VERSION = "1.0";
